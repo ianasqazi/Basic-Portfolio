@@ -1,0 +1,137 @@
+/* INDEX page styling */
+
+nav{
+    float: right;
+    margin:auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header{
+    background-color: #ffffff;
+    border:2px solid #cccccc;
+    background-color:none;
+    /* margin:auto;
+    /* margin-left:40px;
+    margin-right:40px; */
+    color:#777777;
+    padding: 5px 5px 5px 5px;
+}
+
+span{
+    
+    padding:5px 5px 5px 5px;
+    color:#ffffff;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    align-self: center;
+    margin:auto;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#4aaaa5;
+    border-bottom: 2px solid #cccccc;
+}
+
+
+#my-photo{
+    float: left;
+    max-height: 200px;
+    max-width: 150px;
+    margin:20px;
+}
+
+
+#main-content{
+    max-width: 960px;
+    margin:auto;
+    padding: 5px 5px 5px 5px;
+    background: #ffffff;
+    border:2px solid #dddddd;
+    margin-bottom:20px;
+    margin-top:20px;
+}
+footer{
+    color:white;
+    text-align: center;
+    background-color: #666666;
+    padding: 10px 10px 10px 10px;
+    width: 100%;
+    border-top: 10px solid #4aaaa5;
+    position: fixed;
+    bottom: 0px;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+/* CONTACT Page Style */
+
+#input-message{
+    width:500px;
+    height:300px;
+}
+
+#input-name{
+    width:500px;
+    height: 30px;
+}
+
+#input-email{
+    width:500px;
+    height: 30px;
+}
+
+button{
+    width:120px;
+    height: 30px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+}
+
+/* Portfolio Page  */
+
+.pf-box {
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+    border: #cccccc solid 2px;
+    margin: 3px 6px 3px 6px;   
+    padding: 0px;
+}
+
+.pf-item-name {
+    display: inline-block;
+    width: 280px;
+    height: 5px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 12px;
+    text-align:center;
+    padding: 10px;
+    margin-top:120px;
+}
+
+#cat {
+    background-image: url("../images/cat.jpg");
+    background-size: 100%;
+}
+#dog {
+    background-image: url("../images/dog.jpg");
+    background-size: 100%;
+}
+#lion {
+    background-image: url("../images/lion.jpg");
+    background-size: 100%;
+}
+#tiger {
+    background-image: url("../images/tiger.jpg");
+    background-size: 100%;
+}
