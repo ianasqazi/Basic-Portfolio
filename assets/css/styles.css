@@ -47,7 +47,7 @@ h1{
 }
 
 
-#main-content{
+#mainContent{
     max-width: 960px;
     margin:auto;
     padding: 5px 5px 5px 5px;
@@ -74,17 +74,17 @@ a{
 
 /* CONTACT Page Style */
 
-#input-message{
+#inputMessage{
     width:500px;
     height:300px;
 }
 
-#input-name{
+#inputName{
     width:500px;
     height: 30px;
 }
 
-#input-email{
+#inputEmail{
     width:500px;
     height: 30px;
 }
@@ -98,7 +98,7 @@ button{
 
 /* Portfolio Page  */
 
-.pf-box {
+.pfBox {
     width: 300px;
     height: 150px;
     display: inline-block;
@@ -107,7 +107,7 @@ button{
     padding: 0px;
 }
 
-.pf-item-name {
+.pfItemName {
     display: inline-block;
     width: 280px;
     height: 5px;
