@@ -39,7 +39,7 @@ h1{
 }
 
 
-#my-photo{
+#myPhoto{
     float: left;
     max-height: 200px;
     max-width: 150px;
@@ -118,6 +118,8 @@ button{
     padding: 10px;
     margin-top:120px;
 }
+
+/* Updating the images  */
 
 #cat {
     background-image: url("../images/cat.jpg");
